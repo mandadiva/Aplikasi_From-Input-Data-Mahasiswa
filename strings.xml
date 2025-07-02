@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Latihan5</string>
+    <string name="judul_form">Form Data Mahasiswa</string>
+
+    <!-- Nama -->
+    <string name="label_nama">Nama</string>
+    <string name="hint_nama">Masukkan Nama</string>
+
+    <!-- NPM -->
+    <string name="label_npm">NPM</string>
+    <string name="hint_npm">Masukkan NPM</string>
+
+    <!-- Tempat Lahir -->
+    <string name="label_tempat_lahir">Tempat Lahir</string>
+    <string name="hint_tempat_lahir">Masukkan Tempat Lahir</string>
+
+    <!-- Tanggal Lahir -->
+    <string name="label_tanggal_lahir">Tanggal Lahir</string>
+    <string name="hint_tanggal_lahir">dd-mm-yyyy</string>
+
+    <!-- Tombol -->
+    <string name="btn_tampil">Tampilkan Data</string>
+</resources>
